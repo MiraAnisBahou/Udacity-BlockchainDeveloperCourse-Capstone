@@ -759,43 +759,43 @@
 
 * Original Owner Name on OpenSea: mira
 
-* First Token:
+* First Token:  
   **Transaction Hash:** 0xf87e79a1ea04859e763b02332134af6f628aa79e7ee68d7f8e13e82ef7dba337
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/1/
 
-* Second Token:
+* Second Token:  
   **Transaction Hash:** 0xe338131f1f220165fe7a26e8b226f6ca3409adb432d16460177d0554b976f2fc
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/2/
 
-* Third Token:
+* Third Token:  
   **Transaction Hash:** 0x3f04fb4fbfcac9907000031c288268fe7d4a28a5dbe736f007470a0dcb1a3f23
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/3/
 
-* Fourth Token:
+* Fourth Token:  
   **Transaction Hash:** 0xb5f728a8b356fa513be8e611d98b4ebd9e56b1c150c3aa2492c950f71d790d91
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/4/
 
-* Fifth Token:
+* Fifth Token:  
   **Transaction Hash:** 0xf47ebdb4c7bc435126df1f7200d3af4d88de6ea608657e1c06749fe93e51f708
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/5/
 
-* Sixth Token:
+* Sixth Token:  
   **Transaction Hash:**0xba298de69935e7f77751b202793c1a38de933f5f9e6381316e646c3d4253df1b
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/6/
 
-* Seventh Token:
+* Seventh Token:  
   **Transaction Hash:** 0xd85b974aa79c9def74de6ba8b7fb4b59fb25e51a66ea0dcf3cd5cdcf77ac384b
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/7/
 
-* Eighth Token:
+* Eighth Token:  
   **Transaction Hash:** 0x7bbc72a0e6f75cb8fe7f78de075a8c9c7249a05bf9b9506a6d0d311d87ba282d
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/8/
 
-* Nineth Token:
+* Nineth Token:  
   **Transaction Hash:** 0x49a4b3b1d959e904ea917e09b8165d762e3f8c69dd593dcb7634bf1ab0c7663a
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/9/
 
-* Tenth Token:
+* Tenth Token:  
   **Transaction Hash:** 0x3fb7a7552b316e014eec4106e3afc6998ba707ea321587642a44b94279eea3f5
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/10/
 
