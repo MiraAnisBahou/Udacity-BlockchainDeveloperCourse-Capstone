@@ -811,12 +811,13 @@
 Shown below is a screenshot of putting token 1 on sale and buying it afterwards (same procedure was followed to put the rest of the tokens on sale): 
 <br />
 mira putting it on sale: (mira is the owner in this stage)
-<br />
+<br /> <br />
 <img width="960" alt="Sell" src="https://user-images.githubusercontent.com/72036379/100035086-098f4d80-2e06-11eb-8d43-30c92065b86e.PNG">  
 <img width="960" alt="forSale" src="https://user-images.githubusercontent.com/72036379/100035097-10b65b80-2e06-11eb-8e7a-38f3d579aaeb.PNG">  
 <img width="960" alt="forSale(cont'd)" src="https://user-images.githubusercontent.com/72036379/100035104-1744d300-2e06-11eb-8f4f-8f45f542c610.PNG"> 
-mira2 purchasing it: (mira2 is now the owner)
 <br />
+mira2 purchasing it: (mira2 is now the owner)
+<br /> <br />
 <img width="959" alt="buy" src="https://user-images.githubusercontent.com/72036379/100035112-1dd34a80-2e06-11eb-90a7-fde5e7ad88c3.PNG">  
 <img width="960" alt="buy2" src="https://user-images.githubusercontent.com/72036379/100035140-2cb9fd00-2e06-11eb-9074-29f62c8d9100.PNG">  
 <img width="960" alt="buy3" src="https://user-images.githubusercontent.com/72036379/100035174-38a5bf00-2e06-11eb-9dc0-5650ac2413a7.PNG">  
