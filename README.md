@@ -799,7 +799,7 @@
   **Transaction Hash:** 0x3fb7a7552b316e014eec4106e3afc6998ba707ea321587642a44b94279eea3f5  
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/10/
 
-* After that, I put 5 tokens on sale; tokens with numbers 1, 3, 5, 7, 10.  
+* After that, I put 5 tokens on sale; tokens with numbers 1, 3, 5, 7, 10 as shown in the screenshots below.  
 <br />
   <img width="960" alt="forSale5" src="https://user-images.githubusercontent.com/72036379/100035338-976b3880-2e06-11eb-89e1-a45e3a68cdbd.PNG">  
   <img width="960" alt="5houses" src="https://user-images.githubusercontent.com/72036379/100035341-9a662900-2e06-11eb-9c1e-1d1de4ff7ea3.PNG">
@@ -808,15 +808,21 @@
   **Buyer Address:** 0x72F081DDA134C5D2Ed227Cb15c69F3AfcfB7c85F  
   Buyer Name on OpenSea: **mira2**  
 
-Shown below is a screenshot of putting token 1 on sale and buying it afterwards (same procedure was followed to put the rest of the tokens on sale):  
+Shown below is a screenshot of putting token 1 on sale and buying it afterwards (same procedure was followed to put the rest of the tokens on sale): 
+<br />
+mira putting it on sale: (mira is the owner in this stage)
+<br />
 <img width="960" alt="Sell" src="https://user-images.githubusercontent.com/72036379/100035086-098f4d80-2e06-11eb-8d43-30c92065b86e.PNG">  
 <img width="960" alt="forSale" src="https://user-images.githubusercontent.com/72036379/100035097-10b65b80-2e06-11eb-8e7a-38f3d579aaeb.PNG">  
+<br />
+mira2 purchasing it: (mira2 is now the owner)
+<br />
 <img width="960" alt="forSale(cont'd)" src="https://user-images.githubusercontent.com/72036379/100035104-1744d300-2e06-11eb-8f4f-8f45f542c610.PNG">  
 <img width="959" alt="buy" src="https://user-images.githubusercontent.com/72036379/100035112-1dd34a80-2e06-11eb-90a7-fde5e7ad88c3.PNG">  
 <img width="960" alt="buy2" src="https://user-images.githubusercontent.com/72036379/100035140-2cb9fd00-2e06-11eb-9074-29f62c8d9100.PNG">  
 <img width="960" alt="buy3" src="https://user-images.githubusercontent.com/72036379/100035174-38a5bf00-2e06-11eb-9dc0-5650ac2413a7.PNG">  
 
-- Below are the transaction hashes of the purchasing the 5 tokens:  
+- Below are the transaction hashes of the purchase of the 5 tokens:  
   Token 1 Purchase Transaction Hash: 0x6fa77c53bcda681e45e620e008125b4d46b62c4de3f06e1df786384fec9c7d6b  
   Token 3 Purchase Transaction Hash: 0xaed064c785c2702bf8b23cd3c5c47b845d2bbdeab6ee23f7937b7ddc4a9131a1  
   Token 5 Purchase Transaction Hash: 0xf69ef969102443ff25c797589093e39792efe6b2b3e02fc3394f42e5da3ace5a  
@@ -826,9 +832,12 @@ Shown below is a screenshot of putting token 1 on sale and buying it afterwards 
 Now, as can be seen, mira owns 5 tokens, and mira2 owns the rest (the 5 tokens that she purchased from mira):
 
 - mira:  
+<br />
   <img width="960" alt="miraa" src="https://user-images.githubusercontent.com/72036379/100035924-db127200-2e07-11eb-8357-ada72082b610.PNG">  
-  <img width="960" alt="miraa(2)" src="https://user-images.githubusercontent.com/72036379/100035939-dfd72600-2e07-11eb-972a-5ec99d53c900.PNG">  
-- mira2:  
+  <img width="960" alt="miraa(2)" src="https://user-images.githubusercontent.com/72036379/100035939-dfd72600-2e07-11eb-972a-5ec99d53c900.PNG"> 
+ <br />
+- mira2: 
+<br />
   <img width="960" alt="mira2" src="https://user-images.githubusercontent.com/72036379/100035662-67706500-2e07-11eb-8821-48208d6bf3c5.PNG">  
   <img width="960" alt="mira2(2)" src="https://user-images.githubusercontent.com/72036379/100035667-6a6b5580-2e07-11eb-9d1c-34628f95c2cf.PNG">  
 
