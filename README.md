@@ -831,13 +831,12 @@ Shown below is a screenshot of putting **token with ID: 1** on sale and buying i
 
 Now, as can be seen, mira owns 5 tokens, and mira2 owns the rest (the 5 tokens that she purchased from mira):
 
-* mira: 
+- mira: 
 <br />
   <img width="960" alt="miraa" src="https://user-images.githubusercontent.com/72036379/100035924-db127200-2e07-11eb-8357-ada72082b610.PNG">  
   <img width="960" alt="miraa(2)" src="https://user-images.githubusercontent.com/72036379/100035939-dfd72600-2e07-11eb-972a-5ec99d53c900.PNG"> 
  <br />
-- mira2: 
-<br />
+- mira2: <br />  
   <img width="960" alt="mira2" src="https://user-images.githubusercontent.com/72036379/100035662-67706500-2e07-11eb-8821-48208d6bf3c5.PNG">  
   <img width="960" alt="mira2(2)" src="https://user-images.githubusercontent.com/72036379/100035667-6a6b5580-2e07-11eb-9d1c-34628f95c2cf.PNG">  
 
