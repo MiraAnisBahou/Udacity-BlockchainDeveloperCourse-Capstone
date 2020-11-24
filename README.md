@@ -800,12 +800,13 @@
   **Link:** https://testnets.opensea.io/assets/0xd66312317870a4861eb86a7dce959906cedb9b95/10/
 
 * After that, I put 5 tokens on sale; tokens with numbers 1, 3, 5, 7, 10.  
+<br />
   <img width="960" alt="forSale5" src="https://user-images.githubusercontent.com/72036379/100035338-976b3880-2e06-11eb-89e1-a45e3a68cdbd.PNG">  
   <img width="960" alt="5houses" src="https://user-images.githubusercontent.com/72036379/100035341-9a662900-2e06-11eb-9c1e-1d1de4ff7ea3.PNG">
 
-* I then purchased the 5 tokens as required:
-  **Buyer Address:** 0x72F081DDA134C5D2Ed227Cb15c69F3AfcfB7c85F
-  Buyer Name on OpenSea: **mira2**
+* I then purchased the 5 tokens as required:  
+  **Buyer Address:** 0x72F081DDA134C5D2Ed227Cb15c69F3AfcfB7c85F  
+  Buyer Name on OpenSea: **mira2**  
 
 Shown below is a screenshot of putting token 1 on sale and buying it afterwards (same procedure was followed to put the rest of the tokens on sale):  
 <img width="960" alt="Sell" src="https://user-images.githubusercontent.com/72036379/100035086-098f4d80-2e06-11eb-8d43-30c92065b86e.PNG">  
@@ -815,12 +816,12 @@ Shown below is a screenshot of putting token 1 on sale and buying it afterwards 
 <img width="960" alt="buy2" src="https://user-images.githubusercontent.com/72036379/100035140-2cb9fd00-2e06-11eb-9074-29f62c8d9100.PNG">  
 <img width="960" alt="buy3" src="https://user-images.githubusercontent.com/72036379/100035174-38a5bf00-2e06-11eb-9dc0-5650ac2413a7.PNG">  
 
-- Below are the transaction hashes of the purchasing the 5 tokens:
-  Token 1 Purchase Transaction Hash: 0x6fa77c53bcda681e45e620e008125b4d46b62c4de3f06e1df786384fec9c7d6b
-  Token 3 Purchase Transaction Hash: 0xaed064c785c2702bf8b23cd3c5c47b845d2bbdeab6ee23f7937b7ddc4a9131a1
-  Token 5 Purchase Transaction Hash: 0xf69ef969102443ff25c797589093e39792efe6b2b3e02fc3394f42e5da3ace5a
-  Token 7 Purchase Transaction Hash: 0x3e684d4bafedcaa32917478621df70323c3725c73631d743ca53256dcce00094
-  Token 10 Purchase Transaction Hash: 0xe6adb915a27b75817eeee65ca9456a75fd00bbf57004299916dbf97c10fc712e
+- Below are the transaction hashes of the purchasing the 5 tokens:  
+  Token 1 Purchase Transaction Hash: 0x6fa77c53bcda681e45e620e008125b4d46b62c4de3f06e1df786384fec9c7d6b  
+  Token 3 Purchase Transaction Hash: 0xaed064c785c2702bf8b23cd3c5c47b845d2bbdeab6ee23f7937b7ddc4a9131a1  
+  Token 5 Purchase Transaction Hash: 0xf69ef969102443ff25c797589093e39792efe6b2b3e02fc3394f42e5da3ace5a  
+  Token 7 Purchase Transaction Hash: 0x3e684d4bafedcaa32917478621df70323c3725c73631d743ca53256dcce00094  
+  Token 10 Purchase Transaction Hash: 0xe6adb915a27b75817eeee65ca9456a75fd00bbf57004299916dbf97c10fc712e  
 
 Now, as can be seen, mira owns 5 tokens, and mira2 owns the rest (the 5 tokens that she purchased from mira):
 
