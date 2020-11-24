@@ -25,7 +25,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 const mnemonic =
-  "ivory employ put ridge wolf town fiscal charge pencil token near brother";
+  "Place your mnemonic here";
 
 module.exports = {
   /**
@@ -75,7 +75,7 @@ module.exports = {
       provider: () =>
         new HDWalletProvider(
           mnemonic,
-          `https://rinkeby.infura.io/v3/4168c8a8308b4db8bdf97d0507513afc`
+          `https://rinkeby.infura.io/v3/${infuraKey}`
         ),
       network_id: 4, // Rinkeby's id
       gas: 4267000, // Rinkeby has a lower block limit than mainnet
